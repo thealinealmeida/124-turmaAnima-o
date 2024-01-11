@@ -1,0 +1,21 @@
+.heading {
+    box-shadow: 5px 5px 5px #444;
+}
+
+.note {
+    font-size: 15px;
+    color: #fff;
+}
+
+/* main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+canvas {
+    /* margin: 40px auto; */
+    border: 5px solid #fff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #444;
+}
